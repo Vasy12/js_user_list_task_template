@@ -26,6 +26,10 @@ body {
     justify-content: space-evenly;
 }
 
+
+#usersList > li{
+    margin: 20px;
+}
 /*
 USER CARD
 
@@ -39,7 +43,7 @@ USER CARD
     border-radius: 6px;
     box-sizing: border-box;
     padding: 20px;
-    margin: 20px;
+    height: 100%;
 }
 
 .flexDirectionColumn {
